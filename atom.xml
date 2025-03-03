@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2025-03-03T03:43:58.410Z</updated>
+  <updated>2025-03-03T03:59:16.936Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -17,25 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的友人</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <title>阿伟美图</title>
+    <link href="https://www.fomal.cc/posts/f5b6a93f.html"/>
+    <id>https://www.fomal.cc/posts/f5b6a93f.html</id>
     <published>2025-03-03T03:33:00.000Z</published>
-    <updated>2025-03-03T03:43:58.410Z</updated>
+    <updated>2025-03-03T03:59:16.936Z</updated>
     
     <content type="html"><![CDATA[<p>我的一位故人<br><img src="https://www.helloimg.com/i/2025/03/03/67c5226a64bc2.jpg" alt="code"></p>]]></content>
     
     
-    <summary type="html">awei666</summary>
+    <summary type="html">阿伟美图</summary>
     
     
     
     <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
     
-    
-    <category term="awei666" scheme="https://www.fomal.cc/tags/awei666/"/>
-    
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
@@ -56,9 +52,9 @@
     <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
-    
     <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
