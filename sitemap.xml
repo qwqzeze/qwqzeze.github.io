@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.qiuruize.cn/posts/f5b6a93f.html</loc>
+    <loc>https://www.qiuruize.cn/posts/1762666741.html</loc>
     
     <lastmod>2025-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,16 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/life/movies/index.html</loc>
+    <loc>https://www.qiuruize.cn/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,7 +47,43 @@
   </url>
   
   <url>
+    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.qiuruize.cn/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,34 +110,16 @@
   </url>
   
   <url>
+    <loc>https://www.qiuruize.cn/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.qiuruize.cn/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,9 +137,18 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/personal/love/index.html</loc>
+    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/posts/4546455645.html</loc>
+    
+    <lastmod>2022-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
