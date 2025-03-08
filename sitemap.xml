@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/box/gallery/index.html</loc>
+    <loc>https://www.qiuruize.cn/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/box/animation/index.html</loc>
+    <loc>https://www.qiuruize.cn/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +92,25 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/site/census/index.html</loc>
+    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -102,6 +120,15 @@
   
   <url>
     <loc>https://www.qiuruize.cn/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -120,33 +147,6 @@
   
   <url>
     <loc>https://www.qiuruize.cn/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
