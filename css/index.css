@@ -5230,14 +5230,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: var(/assets/qing.png);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg);
+    background: var(/assets/qing.png);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
