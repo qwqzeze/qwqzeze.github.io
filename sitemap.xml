@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.qiuruize.cn/posts/0.html</loc>
+    <loc>https://www.qiuruize.cn/posts/123.html</loc>
     
     <lastmod>2025-03-10</lastmod>
     
@@ -101,6 +101,42 @@
   </url>
   
   <url>
+    <loc>https://www.qiuruize.cn/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.qiuruize.cn/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -120,42 +156,6 @@
   
   <url>
     <loc>https://www.qiuruize.cn/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -207,13 +207,6 @@
 
   
   <url>
-    <loc>https://www.qiuruize.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.qiuruize.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,6 +222,13 @@
   
   <url>
     <loc>https://www.qiuruize.cn/categories/%E8%AF%89%E8%8B%A6/</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
