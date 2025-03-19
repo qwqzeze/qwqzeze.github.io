@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/box/animation/index.html</loc>
+    <loc>https://www.qiuruize.cn/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +101,16 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/box/nav/index.html</loc>
+    <loc>https://www.qiuruize.cn/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -128,25 +137,16 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.qiuruize.cn/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.qiuruize.cn/social/link/index.html</loc>
+    <loc>https://www.qiuruize.cn/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -216,6 +216,13 @@
 
   
   <url>
+    <loc>https://www.qiuruize.cn/categories/666/</loc>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.qiuruize.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,13 +231,6 @@
   
   <url>
     <loc>https://www.qiuruize.cn/categories/%E8%AF%89%E8%8B%A6/</loc>
-    <lastmod>2025-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qiuruize.cn/categories/666/</loc>
     <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
